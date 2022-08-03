@@ -9,7 +9,7 @@
       "manners": 3.7,
       "pricing": 4.3
     },
-    "services": ["plumbing"],
+    "services": ["plumbing", "electrical", "paints", "conch"],
     "type": "worker",
     "reviews": [
       {
