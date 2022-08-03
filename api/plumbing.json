@@ -1,0 +1,30 @@
+{
+  "professionals": [
+    {
+      "name": "محمد رشاد",
+      "image": null,
+      "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+      "rating": {
+        "speed": 4.8,
+        "quality": 5.0,
+        "manners": 3.7,
+        "pricing": 4.3
+      },
+      "services": ["plumbing"],
+      "type": "worker",
+      "reviews": [
+        {
+          "reviewerName": "احمد حلمي",
+          "rating": 5,
+          "descriptiion": "ممتاز جدا، وشغله سريع"
+        }
+      ],
+
+      "pricing": {
+        "conch": 35
+      },
+      "previousWork": [""],
+      "description": ""
+    }
+  ]
+}
