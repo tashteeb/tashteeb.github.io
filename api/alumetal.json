@@ -1,0 +1,67 @@
+[
+  {
+    "id": 11,
+    "name": { "en": "Mohamed Rashad", "ar": "محمد رشاد" },
+    "image": null,
+    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 5.0,
+      "manners": 3.7,
+      "pricing": 4.3
+    },
+    "services": ["alumetal"],
+    "type": "worker",
+    "reviews": [
+      {
+        "reviewerName": "احمد حلمي",
+        "rating": 5,
+        "descriptiion": "ممتاز جدا، وشغله سريع"
+      }
+    ],
+
+    "pricing": {
+      "alumetal": 300
+    },
+    "previousWork": [
+      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
+    ],
+    "description": ""
+  },
+  {
+    "id": 12,
+    "name": { "en": "Adel Bayoumy", "ar": "عادل بيومي" },
+    "image": null,
+    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 5.0,
+      "manners": 3.7,
+      "pricing": 4.3
+    },
+    "services": ["plumbing", "electrical", "paints", "conch"],
+    "type": "worker",
+    "reviews": [
+      {
+        "reviewerName": "Fawzy Ghareeb",
+        "rating": 5,
+        "descriptiion": "ممتاز جدا، وشغله سريع"
+      }
+    ],
+
+    "pricing": {
+      "conch": 40,
+      "plumbing": 1500,
+      "electrical": 1500,
+      "paints": 50
+    },
+    "previousWork": [
+      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
+    ],
+    "description": ""
+  }
+]
