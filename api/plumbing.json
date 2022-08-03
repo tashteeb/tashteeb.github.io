@@ -1,6 +1,6 @@
 [
   {
-    "name": "محمد رشاد",
+    "name": { "en": "Mohamed Rashad", "ar": "محمد رشاد" },
     "image": null,
     "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
     "rating": {
@@ -22,7 +22,11 @@
     "pricing": {
       "conch": 35
     },
-    "previousWork": [""],
+    "previousWork": [
+      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
+    ],
     "description": ""
   }
 ]
