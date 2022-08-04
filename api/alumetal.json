@@ -41,7 +41,7 @@
       "manners": 3.7,
       "pricing": 4.3
     },
-    "services": ["alumetal", "plumbing", "electrical", "paints", "plastering"],
+    "services": ["alumetal", "plumbing", "electricity", "paints", "plastering"],
     "type": "worker",
     "reviews": [
       {
@@ -54,7 +54,7 @@
     "pricing": {
       "plastering": 40,
       "plumbing": 1500,
-      "electrical": 1500,
+      "electricity": 1500,
       "paints": 50,
       "alumetal": 300
     },

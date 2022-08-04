@@ -10,7 +10,7 @@
       "manners": 3.7,
       "pricing": 4.3
     },
-    "services": ["plumbing", "electrical", "paints", "plastering"],
+    "services": ["plumbing", "electricity", "paints", "plastering"],
     "type": "worker",
     "reviews": [
       {
@@ -23,7 +23,7 @@
     "pricing": {
       "plastering": 35,
       "plumbing": 2000,
-      "electrical": 2000,
+      "electricity": 2000,
       "paints": 55
     },
     "previousWork": [
@@ -44,7 +44,7 @@
       "manners": 3.7,
       "pricing": 4.3
     },
-    "services": ["plumbing", "electrical", "paints", "plastering"],
+    "services": ["plumbing", "electricity", "paints", "plastering"],
     "type": "worker",
     "reviews": [
       {
@@ -57,7 +57,7 @@
     "pricing": {
       "plastering": 40,
       "plumbing": 1500,
-      "electrical": 1500,
+      "electricity": 1500,
       "paints": 50
     },
     "previousWork": [

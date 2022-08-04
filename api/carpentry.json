@@ -41,7 +41,13 @@
       "manners": 3.7,
       "pricing": 4.3
     },
-    "services": ["carpentry", "plumbing", "electrical", "paints", "plastering"],
+    "services": [
+      "carpentry",
+      "plumbing",
+      "electricity",
+      "paints",
+      "plastering"
+    ],
     "type": "worker",
     "reviews": [
       {
@@ -54,7 +60,7 @@
     "pricing": {
       "plastering": 40,
       "plumbing": 1500,
-      "electrical": 1500,
+      "electricity": 1500,
       "paints": 50,
       "carpentry": 1800
     },
