@@ -41,7 +41,7 @@
       "manners": 3.7,
       "pricing": 4.3
     },
-    "services": ["carpentry", "plumbing", "electrical", "paints", "conch"],
+    "services": ["carpentry", "plumbing", "electrical", "paints", "plastering"],
     "type": "worker",
     "reviews": [
       {
@@ -52,7 +52,7 @@
     ],
 
     "pricing": {
-      "conch": 40,
+      "plastering": 40,
       "plumbing": 1500,
       "electrical": 1500,
       "paints": 50,
