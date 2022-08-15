@@ -1,7 +1,7 @@
 [
   {
     "id": 11,
-    "name": { "en": "Mas3ood Adel", "ar": "مسعود عادل" },
+    "name": { "en": "Emad Ibrahim", "ar": "عماد ابراهيم" },
     "image": null,
     "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
     "rating": {
@@ -10,7 +10,7 @@
       "manners": 3.7,
       "pricing": 4.3
     },
-    "services": ["carrying"],
+    "services": ["electricity"],
     "type": "worker",
     "reviews": [
       {
@@ -21,7 +21,7 @@
     ],
 
     "pricing": {
-      "carrying": 250
+      "electricity": 2500
     },
     "previousWork": [
       "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
@@ -41,7 +41,7 @@
       "manners": 3.7,
       "pricing": 4.3
     },
-    "services": ["carrying", "plumbing", "electricity", "paints", "plastering"],
+    "services": ["plumbing", "electricity", "paints", "plastering"],
     "type": "worker",
     "reviews": [
       {
@@ -55,8 +55,7 @@
       "plastering": 40,
       "plumbing": 1500,
       "electricity": 1500,
-      "paints": 50,
-      "carrying": 250
+      "paints": 50
     },
     "previousWork": [
       "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
