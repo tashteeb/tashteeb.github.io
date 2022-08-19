@@ -1,7 +1,7 @@
 [
   {
-    "id": 11,
-    "name": { "en": "Salah El Nenny", "ar": "صلاح النني" },
+    "id": "PN-1",
+    "name": { "en": "Gamal", "ar": "جمال" },
     "image": null,
     "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
     "rating": {
@@ -12,6 +12,7 @@
     },
     "services": ["paints"],
     "type": "worker",
+
     "reviews": [
       {
         "reviewerName": "احمد حلمي",
@@ -21,18 +22,19 @@
     ],
 
     "pricing": {
-      "paints": 50
+      "paints": "30-35"
     },
     "previousWork": [
       "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
       "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
       "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
     ],
-    "description": ""
+    "description": "",
+    "mobileNumber": "01211006245"
   },
   {
-    "id": 12,
-    "name": { "en": "Adel Bayoumy", "ar": "عادل بيومي" },
+    "id": "PN-2",
+    "name": { "en": "Mina Amir Mounir", "ar": "مينا امير منير" },
     "image": null,
     "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
     "rating": {
@@ -41,27 +43,191 @@
       "manners": 3.7,
       "pricing": 4.3
     },
-    "services": ["plumbing", "electricity", "paints", "plastering"],
+    "services": ["paints"],
     "type": "worker",
+
     "reviews": [
       {
-        "reviewerName": "Fawzy Ghareeb",
+        "reviewerName": "احمد حلمي",
         "rating": 5,
         "descriptiion": "ممتاز جدا، وشغله سريع"
       }
     ],
 
     "pricing": {
-      "plastering": 40,
-      "plumbing": 1500,
-      "electricity": 1500,
-      "paints": 50
+      "paints": "35-40"
     },
     "previousWork": [
       "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
       "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
       "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
     ],
-    "description": ""
+    "description": "",
+    "mobileNumber": "01211006245"
+  },
+  {
+    "id": "PN-3",
+    "name": { "en": "Mina Saad", "ar": "مينا سعد " },
+    "image": null,
+    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 5.0,
+      "manners": 3.7,
+      "pricing": 4.3
+    },
+    "services": ["paints"],
+    "type": "worker",
+
+    "reviews": [
+      {
+        "reviewerName": "احمد حلمي",
+        "rating": 5,
+        "descriptiion": "ممتاز جدا، وشغله سريع"
+      }
+    ],
+
+    "pricing": {
+      "paints": "35-40"
+    },
+    "previousWork": [
+      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
+    ],
+    "description": "",
+    "mobileNumber": "01211006245"
+  },
+  {
+    "id": "PN-4",
+    "name": { "en": "Tamer Mohamed Sayed", "ar": "تامر محمد سيد " },
+    "image": null,
+    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 5.0,
+      "manners": 3.7,
+      "pricing": 4.3
+    },
+    "services": ["paints"],
+    "type": "worker",
+
+    "reviews": [
+      {
+        "reviewerName": "احمد حلمي",
+        "rating": 5,
+        "descriptiion": "ممتاز جدا، وشغله سريع"
+      }
+    ],
+
+    "pricing": {
+      "paints": "35-50"
+    },
+    "previousWork": [
+      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
+    ],
+    "description": "",
+    "mobileNumber": "01211006245"
+  },
+  {
+    "id": "PN-5",
+    "name": { "en": "Ayman", "ar": "ايمن " },
+    "image": null,
+    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 5.0,
+      "manners": 3.7,
+      "pricing": 4.3
+    },
+    "services": ["paints"],
+    "type": "worker",
+
+    "reviews": [
+      {
+        "reviewerName": "احمد حلمي",
+        "rating": 5,
+        "descriptiion": "ممتاز جدا، وشغله سريع"
+      }
+    ],
+
+    "pricing": {
+      "paints": "30-35"
+    },
+    "previousWork": [
+      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
+    ],
+    "description": "",
+    "mobileNumber": "01211006245"
+  },
+  {
+    "id": "PN-6",
+    "name": { "en": "Ahmed", "ar": "احمد " },
+    "image": null,
+    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 5.0,
+      "manners": 3.7,
+      "pricing": 4.3
+    },
+    "services": ["paints"],
+    "type": "worker",
+
+    "reviews": [
+      {
+        "reviewerName": "احمد حلمي",
+        "rating": 5,
+        "descriptiion": "ممتاز جدا، وشغله سريع"
+      }
+    ],
+
+    "pricing": {
+      "paints": "30-50"
+    },
+    "previousWork": [
+      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
+    ],
+    "description": "",
+    "mobileNumber": "01211006245"
+  },
+  {
+    "id": "PN-6",
+    "name": { "en": "Alaa El-Kashif", "ar": "علاء الكاشف " },
+    "image": null,
+    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 5.0,
+      "manners": 3.7,
+      "pricing": 4.3
+    },
+    "services": ["paints"],
+    "type": "worker",
+
+    "reviews": [
+      {
+        "reviewerName": "احمد حلمي",
+        "rating": 5,
+        "descriptiion": "ممتاز جدا، وشغله سريع"
+      }
+    ],
+
+    "pricing": {
+      "paints": "35-50"
+    },
+    "previousWork": [
+      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
+      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
+    ],
+    "description": "",
+    "mobileNumber": "01211006245"
   }
 ]
