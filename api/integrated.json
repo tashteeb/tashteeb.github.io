@@ -1,69 +1,155 @@
 [
   {
-    "id": 11,
-    "name": { "en": "Emad Ibrahim", "ar": "عماد ابراهيم" },
+    "id": "INT-1",
+    "name": { "en": "Eng. Ali Montasser", "ar": "مهندس/ علي منتصر" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
+      "speed": 4.6,
+      "quality": 4.7,
+      "manners": 4.9,
       "pricing": 4.3
     },
-    "services": ["electricity"],
-    "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "services": ["integrated"],
+    "type": "integrated",
+    "reviews": [],
 
     "pricing": {
-      "electricity": 2500
+      "integrated": "13-15%"
     },
     "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2FPackage%20-%201.jpeg?alt=media&token=95b356bb-b093-4e7e-8a13-1f55d8e08fad",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2FPackage%20-%203.jpeg?alt=media&token=25a95a7b-3aa0-4439-9936-a6f55ce2f265",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2FPackage%20-%202.jpeg?alt=media&token=852df8c7-a1ab-4c78-9e8e-8f8ba7d34566",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F1.jpeg?alt=media&token=1a99f8dc-69d9-4d96-ab02-23a4cafb1217",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F10.jpeg?alt=media&token=5abd37a5-fe7b-4f8f-9ffa-56ee334483e7",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F11.jpeg?alt=media&token=a9fb3017-7388-4742-84a6-50ce22b00c48",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F12.jpeg?alt=media&token=f67d5d84-5eea-48a4-8a96-f7476c77fb5d",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F13.jpeg?alt=media&token=497bd2bc-f610-4497-bd70-3f5a6f51e3b2",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F14.jpeg?alt=media&token=07390416-b5e2-4538-a627-e3c06e88a502",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F15.jpeg?alt=media&token=e9c7f9e7-2854-41b1-a499-8252e6a4ba80",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F16.jpeg?alt=media&token=abae62a9-0b92-42fb-93b2-fa0d9e534410",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F17.jpeg?alt=media&token=b8235d1a-bfe0-4505-b008-e8de9c0b9079",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F18.jpeg?alt=media&token=5c2d17f9-5f86-4baa-965c-e75db75ef056",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F19.jpeg?alt=media&token=068a422f-a342-47bd-aacf-690e8b2b720b",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F2.jpeg?alt=media&token=dcb4345e-bf2a-4221-8d78-dcad1d22b644",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F20.jpeg?alt=media&token=27b8c56f-da43-4ef8-8bcd-7b98daac7a9f",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F3.jpeg?alt=media&token=cf041114-e280-49e9-89c1-e0aa3ef2e491",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F4.jpeg?alt=media&token=a221fdda-9be0-4374-a779-b521345f5384",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F5.jpeg?alt=media&token=4a14016e-6d51-4f3b-8510-85fc87e631f0",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F6.jpeg?alt=media&token=a7fd736a-3aae-42af-9216-f2c199c38915",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F7.jpeg?alt=media&token=2f580f0d-2a0b-4d11-967b-590ca43fa3a1",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F8.jpeg?alt=media&token=9d4fc4aa-ef41-4b5f-a536-1942ea7a6288",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FAli%20Montasser%20(INT-1)%2F9.jpeg?alt=media&token=473cd534-631c-46fa-9284-72f03307a4b2"
     ],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01143353442"
   },
   {
-    "id": 12,
-    "name": { "en": "Adel Bayoumy", "ar": "عادل بيومي" },
+    "id": "INT-2",
+    "name": { "en": "Eng. David Habib", "ar": "مهندس/ ديفيد حبيب" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
-      "pricing": 4.3
+      "quality": 4.8,
+      "manners": 4.7,
+      "pricing": 4.5
     },
-    "services": ["plumbing", "electricity", "paints", "plastering"],
-    "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "Fawzy Ghareeb",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "services": ["integrated"],
+    "type": "integrated",
+    "reviews": [],
 
     "pricing": {
-      "plastering": 40,
-      "plumbing": 1500,
-      "electricity": 1500,
-      "paints": 50
+      "integrated": "10-15%"
+    },
+    "previousWork": [],
+    "description": "",
+    "mobileNumber": "01004146067"
+  },
+  {
+    "id": "INT-3",
+    "name": {
+      "en": "Eng. Mahmoud Ahmed Nahas",
+      "ar": "مهندس/ محمود احمد نحاس"
+    },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 4.8,
+      "manners": 4.7,
+      "pricing": 4.5
+    },
+    "services": ["integrated"],
+    "type": "integrated",
+    "reviews": [],
+
+    "pricing": {
+      "integrated": "10-15%"
     },
     "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2Fpackage%20-%202.jpeg?alt=media&token=a3dbefa2-d847-4227-bf59-aa19a19ca7db",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2Fpackage%20-%201%20(1).jpeg?alt=media&token=18083d73-566a-4032-a3a8-2be6c3dbdcf5",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2Fpackage%20-%204.jpeg?alt=media&token=1321fd6c-5323-40ae-9ad3-9abe260d6cbc",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2Fpackage%20-%203.jpeg?alt=media&token=49855fc0-6632-47a8-a446-eb3218be5eaf",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F1.jpeg?alt=media&token=31941532-4542-49f4-b227-fd5efa25574a",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F10.jpeg?alt=media&token=7eeec2ec-253d-4931-bf9e-f74aa927cacc",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F11.jpeg?alt=media&token=46a6de50-5172-4004-a935-2b6e8e392b7f",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F12.jpeg?alt=media&token=c18a1acb-efdd-4cd7-b95b-45ee2bcc8229",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F13.jpeg?alt=media&token=585038db-76ad-4287-a6e0-9a9c64b98463",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F14.jpeg?alt=media&token=a566b9bf-35ed-4add-949e-4b6d0beea5cf",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F15.jpeg?alt=media&token=cf02c498-22df-4e8d-a75d-d0d89d12e021",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F16.jpeg?alt=media&token=a1d6d253-9396-45da-aab2-941653ea3bb5",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F17.jpeg?alt=media&token=6a5edf16-67a4-4bcf-86e1-57fe27dd1e2d",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F18.jpeg?alt=media&token=990ed103-4e3e-4c97-955a-d7641ce2d656",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F19.jpeg?alt=media&token=86315a6a-664d-4cc9-87cc-b2f280d02735",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F2.jpeg?alt=media&token=5dab4611-6a0c-4ccc-83d6-d6803c00aa72",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F20.jpeg?alt=media&token=a6e01d15-1038-43d7-9fb9-980c6e5b72a7",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F3.jpeg?alt=media&token=d74a10e0-f86e-4f4c-bd34-61d3cc4c9e2a",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F4.jpeg?alt=media&token=dbb0d5d4-4d6a-4cad-9823-79515be79ca6",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F5.jpeg?alt=media&token=ac51fcde-1fee-4c55-a85a-e2cb16de3ccf",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F6.jpeg?alt=media&token=d1c04cde-6b74-46a7-9350-1811e4acc83c",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F7.jpeg?alt=media&token=4ab5f4b3-e185-43db-8f2a-280c091d27cd",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F8.jpeg?alt=media&token=0663cc00-73a6-4f5d-a817-7dc5c8c13ccf",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMahmoud%20ElNahas%20(INT%20-%203)%2F9.jpeg?alt=media&token=db14e078-91c5-45a4-b1fb-c1b871b3d5b3"
     ],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01090254252"
+  },
+  {
+    "id": "INT-4",
+    "name": {
+      "en": "Supervisor/ Mr. Mohamed Hassan",
+      "ar": "المشرف الاستاذ/ محمد حسان"
+    },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.5,
+      "quality": 4.5,
+      "manners": 4.7,
+      "pricing": 4.8
+    },
+    "services": ["integrated"],
+    "type": "integrated",
+    "reviews": [],
+
+    "pricing": {
+      "integrated": "-"
+    },
+    "previousWork": [
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMohamed%20Hassan%20(INT%20-%204)%2F1.jpeg?alt=media&token=39b95848-517c-4ad7-ad24-bc8fe8642971",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMohamed%20Hassan%20(INT%20-%204)%2F2.jpeg?alt=media&token=03db56bd-1cb9-4dab-9cc3-b0bfbf5992d1",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMohamed%20Hassan%20(INT%20-%204)%2F3.jpeg?alt=media&token=c5df404d-f848-49da-8a67-afefd6eef736",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMohamed%20Hassan%20(INT%20-%204)%2F4.jpeg?alt=media&token=f0c25aa2-6d41-4d56-a36e-d59a3310c647",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMohamed%20Hassan%20(INT%20-%204)%2F5.jpeg?alt=media&token=6ad13ed8-b39f-42f4-aad3-f4e77ad4cb15",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMohamed%20Hassan%20(INT%20-%204)%2F6.jpeg?alt=media&token=d1150a81-ac13-4b87-9081-9ad65c64fdc0",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMohamed%20Hassan%20(INT%20-%204)%2F7.jpeg?alt=media&token=0cc84667-5b95-47a4-8323-361ad96a3505",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMohamed%20Hassan%20(INT%20-%204)%2F8.jpeg?alt=media&token=cf4456bd-3d00-46fb-91ab-24d1a4d107d9",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Integrated%2FMohamed%20Hassan%20(INT%20-%204)%2F9.jpeg?alt=media&token=6b383501-bb9b-4d52-8655-8e785d1cd667"
+    ],
+    "description": "سعر متر الدهانات / 40 جنيه مصنعية , 80 جنيه خامات و مصنعية - سعر متر المحاره/ 25 مصنعية , 60 خامات ومصنعية - الكهرباء/حسب الشغل - السباكة/ حمام ومطبخ تأسيس فقط 15الف - الجبسون بورد/170ج المتر",
+    "mobileNumber": "01222217598"
   }
 ]

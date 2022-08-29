@@ -3,7 +3,7 @@
     "id": "MECH-1",
     "name": { "en": "Michael Makram Moussa", "ar": "مايكل مكرم موسى " },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.5,
       "quality": 4.4,
@@ -12,30 +12,20 @@
     },
     "services": ["plumbing"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "plumbing": 2500
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01274978624"
   },
   {
     "id": "MECH-2",
     "name": { "en": "Ahmed Ali Mohamed", "ar": "احمد علي محمد" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.6,
       "quality": 4.8,
@@ -44,30 +34,20 @@
     },
     "services": ["plumbing"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "plumbing": 3000
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01002954704"
   },
   {
     "id": "MECH-3",
-    "name": { "en": "Ibrahim Bayoumy", "ar": "ابراهيم بيومي" },
+    "name": { "en": "Ibrahim Bayoumy Farag", "ar": " ابراهيم بيومي فرج" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.6,
       "quality": 4.5,
@@ -76,30 +56,20 @@
     },
     "services": ["plumbing"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "plumbing": "1500-2500"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01064945020"
   },
   {
     "id": "MECH-4",
     "name": { "en": "Nabil Ali Sayed", "ar": "نبيل علي سيد" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.5,
       "quality": 4.5,
@@ -108,30 +78,20 @@
     },
     "services": ["plumbing"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "plumbing": "N/A"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01007399408"
   },
   {
     "id": "MECH-5",
     "name": { "en": "Heshmat", "ar": "حشمت" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.5,
       "quality": 4.5,
@@ -140,23 +100,35 @@
     },
     "services": ["plumbing"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "plumbing": "N/A"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01010373047"
+  },
+  {
+    "id": "MECH-6",
+    "name": { "en": "Youssef Semaan", "ar": "يوسف سمعان" },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.7,
+      "quality": 4.7,
+      "manners": 4.8,
+      "pricing": 4.6
+    },
+    "services": ["plumbing"],
+    "type": "worker",
+    "reviews": [],
+
+    "pricing": {
+      "plumbing": "3000-4500"
+    },
+    "previousWork": [],
+    "description": "",
+    "mobileNumber": "01205981404"
   }
 ]

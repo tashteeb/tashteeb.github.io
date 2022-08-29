@@ -3,231 +3,161 @@
     "id": "PN-1",
     "name": { "en": "Gamal", "ar": "جمال" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
-      "pricing": 4.3
+      "speed": 4.6,
+      "quality": 4.5,
+      "manners": 4.7,
+      "pricing": 4.7
     },
     "services": ["paints"],
     "type": "worker",
 
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "paints": "30-35"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01289616230"
   },
   {
     "id": "PN-2",
     "name": { "en": "Mina Amir Mounir", "ar": "مينا امير منير" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
-      "pricing": 4.3
+      "speed": 4.5,
+      "quality": 4.8,
+      "manners": 4.7,
+      "pricing": 4.5
     },
     "services": ["paints"],
     "type": "worker",
 
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "paints": "35-40"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01207184392"
   },
   {
     "id": "PN-3",
     "name": { "en": "Mina Saad", "ar": "مينا سعد " },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
-      "pricing": 4.3
+      "speed": 4.7,
+      "quality": 4.8,
+      "manners": 4.7,
+      "pricing": 4.5
     },
     "services": ["paints"],
     "type": "worker",
 
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "paints": "35-40"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01221278068"
   },
   {
     "id": "PN-4",
     "name": { "en": "Tamer Mohamed Sayed", "ar": "تامر محمد سيد " },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
-      "pricing": 4.3
+      "speed": 4.7,
+      "quality": 4.7,
+      "manners": 4.8,
+      "pricing": 4.4
     },
     "services": ["paints"],
     "type": "worker",
 
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "paints": "35-50"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01112603828"
   },
   {
     "id": "PN-5",
     "name": { "en": "Ayman", "ar": "ايمن " },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
-      "pricing": 4.3
+      "quality": 4.8,
+      "manners": 4.7,
+      "pricing": 4.7
     },
     "services": ["paints"],
     "type": "worker",
 
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "paints": "30-35"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01050082057"
   },
   {
     "id": "PN-6",
     "name": { "en": "Ahmed", "ar": "احمد " },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
-      "pricing": 4.3
+      "speed": 4.7,
+      "quality": 4.7,
+      "manners": 4.7,
+      "pricing": 4.5
     },
     "services": ["paints"],
     "type": "worker",
 
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "paints": "30-50"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01011069917"
   },
   {
     "id": "PN-7",
     "name": { "en": "Alaa El-Kashif", "ar": "علاء الكاشف " },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "6th of October", "ar": "مدينة 6 اكتوبر" },
     "rating": {
-      "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
-      "pricing": 4.3
+      "speed": 4.7,
+      "quality": 4.7,
+      "manners": 4.7,
+      "pricing": 4.5
     },
     "services": ["paints"],
     "type": "worker",
 
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "paints": "35-50"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01011112518"
   }
 ]

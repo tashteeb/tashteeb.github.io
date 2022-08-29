@@ -1,69 +1,134 @@
 [
   {
-    "id": 11,
-    "name": { "en": "Emad Ibrahim", "ar": "عماد ابراهيم" },
+    "id": "ELE-1",
+    "name": { "en": "Saleh Shaaban Abdelaaty", "ar": "صالح شعبان عبدالعاطي" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
-      "pricing": 4.3
+      "speed": 4.5,
+      "quality": 4.5,
+      "manners": 4.5,
+      "pricing": 4.2
     },
     "services": ["electricity"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
-      "electricity": 2500
+      "electricity": "N/A"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01015407982"
   },
   {
-    "id": 12,
-    "name": { "en": "Adel Bayoumy", "ar": "عادل بيومي" },
+    "id": "ELE-2",
+    "name": { "en": "Ahmed Ashraf Nasr", "ar": "احمد اشرف نصر " },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
-      "pricing": 4.3
+      "speed": 4.7,
+      "quality": 4.8,
+      "manners": 4.8,
+      "pricing": 4.4
     },
-    "services": ["plumbing", "electricity", "paints", "plastering"],
+    "services": ["electricity"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "Fawzy Ghareeb",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
-      "plastering": 40,
-      "plumbing": 1500,
-      "electricity": 1500,
-      "paints": 50
+      "electricity": "N/A"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01008859672"
+  },
+  {
+    "id": "ELE-3",
+    "name": { "en": "Emad", "ar": "عماد" },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.5,
+      "quality": 4.3,
+      "manners": 4.4,
+      "pricing": 4.6
+    },
+    "services": ["electricity"],
+    "type": "worker",
+    "reviews": [],
+
+    "pricing": {
+      "electricity": "N/A"
+    },
+    "previousWork": [],
+    "description": "",
+    "mobileNumber": "01204972021"
+  },
+  {
+    "id": "ELE-4",
+    "name": { "en": "Abdo", "ar": "عبدو" },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.6,
+      "quality": 4.4,
+      "manners": 4.6,
+      "pricing": 4.4
+    },
+    "services": ["electricity"],
+    "type": "worker",
+    "reviews": [],
+
+    "pricing": {
+      "electricity": "N/A"
+    },
+    "previousWork": [],
+    "description": "",
+    "mobileNumber": "01228970416"
+  },
+  {
+    "id": "ELE-5",
+    "name": { "en": "Reda", "ar": "رضا" },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.5,
+      "quality": 4.7,
+      "manners": 4.5,
+      "pricing": 4.6
+    },
+    "services": ["electricity"],
+    "type": "worker",
+    "reviews": [],
+
+    "pricing": {
+      "electricity": "N/A"
+    },
+    "previousWork": [],
+    "description": "",
+    "mobileNumber": "01117824599"
+  },
+  {
+    "id": "ELE-6",
+    "name": { "en": "Fawzy", "ar": "فوزي" },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.5,
+      "quality": 4.7,
+      "manners": 4.7,
+      "pricing": 4.4
+    },
+    "services": ["electricity"],
+    "type": "worker",
+    "reviews": [],
+
+    "pricing": {
+      "electricity": "N/A"
+    },
+    "previousWork": [],
+    "description": "",
+    "mobileNumber": "01224882306"
   }
 ]

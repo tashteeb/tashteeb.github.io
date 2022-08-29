@@ -1,0 +1,23 @@
+[
+  {
+    "id": "AL-1",
+    "name": { "en": "Ibrahim Mohamed Ibrahim", "ar": "ابراهيم محمد ابراهيم" },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة " },
+    "rating": {
+      "speed": 4.6,
+      "quality": 4.7,
+      "manners": 4.6,
+      "pricing": 4.5
+    },
+    "services": ["alumetal"],
+    "type": "worker",
+    "reviews": [],
+
+    "pricing": {
+      "alumetal": "N/A"
+    },
+    "previousWork": [],
+    "description": ""
+  }
+]

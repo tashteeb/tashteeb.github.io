@@ -1,69 +1,130 @@
 [
   {
-    "id": 11,
-    "name": { "en": "Emad Ibrahim", "ar": "عماد ابراهيم" },
+    "id": "DES-1",
+    "name": { "en": "Eng. Omar Hossam Afify", "ar": "مهندس/ عمر حسام عفيفي" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.8,
-      "quality": 5.0,
-      "manners": 3.7,
+      "quality": 4.8,
+      "manners": 4.8,
       "pricing": 4.3
     },
-    "services": ["electricity"],
+    "services": ["design"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [{}],
 
     "pricing": {
-      "electricity": 2500
+      "design": 100
     },
     "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F1.jpeg?alt=media&token=47b1d022-afa6-413d-bc8b-cf08b1989fa4",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F10.jpeg?alt=media&token=0e6ca1cb-c6ba-4f1b-ac15-802cefa25ce0",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F11.jpeg?alt=media&token=cb13b448-e169-4fbd-b9ef-4314a3ebf22a",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F12.jpeg?alt=media&token=7c03c386-83b7-4833-b6c6-2fbd366d28ae",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F13.jpeg?alt=media&token=57c31415-dfef-4e30-971c-593a9b5e61ea",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F14.jpeg?alt=media&token=34ba7467-213f-4b99-bf76-333301014b39",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F15.jpeg?alt=media&token=0ea827c5-138f-4d31-9348-6076bfb18f32",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F16.jpeg?alt=media&token=f92ac93c-0185-49d8-b14e-236d5dbb85e7",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F17.jpeg?alt=media&token=4624e7ab-943b-4d07-a39c-664863ba6968",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F18.jpeg?alt=media&token=7d10ceea-fe16-45a9-b03d-37ef1cef3ee1",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F19.jpeg?alt=media&token=fab29d0f-0047-45a2-ba98-23a44d78cd10",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F2.jpeg?alt=media&token=6ded4757-b163-454b-9171-d20df6b7c9aa",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F20.jpeg?alt=media&token=7e73040c-0e5b-4b08-9407-79f4a5175602",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F21.jpeg?alt=media&token=71dda423-3fc6-4572-b035-451b1bc0cf42",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F22.jpeg?alt=media&token=bba23103-4034-4462-8274-17a0e8fda7fd",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F23.jpeg?alt=media&token=54bd9ea9-77d6-494e-bacf-7db1c57b72b6",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F24.jpeg?alt=media&token=3eb76911-84be-4d86-a507-67a7ae5d83ad",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F25.jpeg?alt=media&token=e4e61633-9507-415f-9e69-5c54de0bfe20",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F26.jpeg?alt=media&token=fabd0d92-e688-4287-b775-e3fdff7e772e",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F27.jpeg?alt=media&token=ae6d2dad-1462-40b2-b8bb-a0cc00e257e4",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F28.jpeg?alt=media&token=3eb221f0-4cde-48e4-9be0-6f9be0669919",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F29.jpeg?alt=media&token=4518e190-e7fd-49f9-8a29-0d33ca505bb9",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F3.jpeg?alt=media&token=5ca23e3d-8cd6-4488-9c6a-9cce08365fa2",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F30.jpeg?alt=media&token=0c33d73c-3e54-4b05-92b9-b08f01578aba",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F4.jpeg?alt=media&token=57144e23-ea85-4710-8b94-56b3e8191b53",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F5.jpeg?alt=media&token=2130c3b9-15da-4dcc-a38e-e615fc64d7c4",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F6.jpeg?alt=media&token=6599b652-f1d8-49e0-9efc-908a9c69ac60",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F7.jpeg?alt=media&token=416caadd-79b3-405a-b4a8-e39a519d8d5e",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F8.jpeg?alt=media&token=9b9fc747-1bcb-458f-96f4-c94bfd2cadb3",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F9.jpeg?alt=media&token=e53655e4-5a1d-4dd3-9eb4-450e35aeec61"
     ],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01285730543"
   },
   {
-    "id": 12,
-    "name": { "en": "Adel Bayoumy", "ar": "عادل بيومي" },
+    "id": "DES-2",
+    "name": { "en": "Eng. Tarek Alaa Sayed", "ar": "مهندس/ طارق علاء سيد" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 4.8,
+      "manners": 4.8,
+      "pricing": 4.5
+    },
+    "services": ["design"],
+    "type": "worker",
+    "reviews": [{}],
+
+    "pricing": {
+      "design": "80-100"
+    },
+    "previousWork": [
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F1.jpeg?alt=media&token=d909f497-ad48-4fe5-9878-6d09b5176410",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F10.jpeg?alt=media&token=881cd3cf-e43f-487a-9198-adaa686ad32a",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F11.jpeg?alt=media&token=c7919aa2-2c0c-4e36-a897-132b62f04179",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F12.jpeg?alt=media&token=1cdb0860-41f0-4929-8b2a-99a640f20789",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F13.jpeg?alt=media&token=7e7a832c-c154-41e2-ba91-ff961961e703",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F14.jpeg?alt=media&token=4281f821-ccd3-4e43-b209-0ea38ab28cbf",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F15.jpeg?alt=media&token=3ade6786-82dd-41a1-b36e-3be6550cb3d7",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F16.jpeg?alt=media&token=1380729a-ebcc-4f27-a1cf-a405b1c99ad5",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F17.jpeg?alt=media&token=460aea57-235a-4d0c-9df6-79b2b5107417",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F18.jpeg?alt=media&token=edd9721f-8021-4347-b27d-043b7d4262dd",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F19.jpeg?alt=media&token=a0ad03c2-452d-4e04-9817-1365bc585ba0",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F2.jpeg?alt=media&token=105ff253-3674-4d58-b8be-090c229f14f8",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F20.jpeg?alt=media&token=e5f0a7ce-c8d6-419e-9ed9-b81ca7ca08ff",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F21.jpeg?alt=media&token=565ff5dd-7082-43d0-a671-3f76599b306c",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F22.jpeg?alt=media&token=5af17271-47a0-4bb4-8167-42fa2420f9a0",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F23.jpeg?alt=media&token=d4ac3248-b515-491d-b9ed-fd4ba1573b31",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F24.jpeg?alt=media&token=c0afc7a3-8fa6-43a3-b8ec-dc8b0e77a609",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F25.jpeg?alt=media&token=5bae6598-4912-46b4-81e9-90ef7ad17869",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F26.jpeg?alt=media&token=3da9f033-1a06-4c36-8dc6-5f1a2b48064a",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F27.jpeg?alt=media&token=c365ceb3-4481-4309-9a63-9ff47c349c80",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F28.jpeg?alt=media&token=3fa36372-7a28-406f-9b63-37ea01830b72",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F29.jpeg?alt=media&token=d36baead-f232-4081-b26d-bf9f8542db06",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F3.jpeg?alt=media&token=d1c3d932-707e-48e2-9a1c-4d0a36a3cb3a",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F30.jpeg?alt=media&token=ddd760dd-7b94-46ee-b75a-04e904bb47e6",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F4.jpeg?alt=media&token=431cd9b8-51b8-4a7d-9c43-d1a232d7ec34",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F5.jpeg?alt=media&token=a6438aaf-9f57-43a9-96f9-4f2c51f814f7",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F6.jpeg?alt=media&token=a99aaabe-7d66-4e6e-843b-9a6dade524e2",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F7.jpeg?alt=media&token=adc2384d-7afc-4c2b-907c-52ac7feb2e9b",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F8.jpeg?alt=media&token=644d066d-848f-4d2c-9a34-8bf302e4eca3",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F9.jpeg?alt=media&token=88e73933-8009-4282-85f7-4011662bea2c"
+    ],
+    "description": "",
+    "mobileNumber": "01097357201"
+  },
+  {
+    "id": "DES-3",
+    "name": { "en": "Eng. Youssef Sedki", "ar": "مهندس/ يوسف صدقي " },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.8,
       "quality": 5.0,
       "manners": 3.7,
       "pricing": 4.3
     },
-    "services": ["plumbing", "electricity", "paints", "plastering"],
+    "services": ["design"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "Fawzy Ghareeb",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [{}],
 
     "pricing": {
-      "plastering": 40,
-      "plumbing": 1500,
-      "electricity": 1500,
-      "paints": 50
+      "design": "85"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01111840846"
   }
 ]

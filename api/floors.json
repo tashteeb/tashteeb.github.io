@@ -3,128 +3,66 @@
     "id": "FLO-1",
     "name": { "en": "Romany", "ar": "روماني" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4,
-      "quality": 4,
-      "manners": 4,
-      "pricing": 4
+      "speed": 4.5,
+      "quality": 4.5,
+      "manners": 4.6,
+      "pricing": 4.7
     },
     "services": ["floors"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "floors": "35-40"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01274931321"
   },
   {
     "id": "FLO-2",
     "name": { "en": "Mahmoud", "ar": "محمود" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.5,
-      "quality": 4.5,
-      "manners": 4,
-      "pricing": 5
+      "speed": 4.6,
+      "quality": 4.6,
+      "manners": 4.4,
+      "pricing": 4.3
     },
     "services": ["floors"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "floors": "40-45"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01222957576"
   },
   {
     "id": "FLO-3",
-    "name": { "en": "Hamada Saad", "ar": "حمادة سعد" },
-    "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
-    "rating": {
-      "speed": 4,
-      "quality": 4,
-      "manners": 4,
-      "pricing": 4
-    },
-    "services": ["floors"],
-    "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
-
-    "pricing": {
-      "floors": "35-50"
-    },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
-    "description": "",
-    "mobileNumber": "01211006245"
-  },
-  {
-    "id": "FLO-4",
     "name": { "en": "Ayman", "ar": "ايمن" },
     "image": null,
-    "areaOfOperation": { "en": "Nasr City", "ar": "مدينة نصر" },
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4,
-      "quality": 4,
-      "manners": 4,
-      "pricing": 4
+      "speed": 4.6,
+      "quality": 4.7,
+      "manners": 4.6,
+      "pricing": 4.6
     },
     "services": ["floors"],
     "type": "worker",
-    "reviews": [
-      {
-        "reviewerName": "احمد حلمي",
-        "rating": 5,
-        "descriptiion": "ممتاز جدا، وشغله سريع"
-      }
-    ],
+    "reviews": [],
 
     "pricing": {
       "floors": "35-50"
     },
-    "previousWork": [
-      "https://benaac.com/wp-content/uploads/2021/07/%D9%81%D9%8A%D9%84%D8%A7-%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D9%86%D8%B5%D8%B1-%D8%A8%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B2%D8%A7%D9%8A%D8%AF22-720x480.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1574499302.jpg",
-      "https://elaanatcom.com/src/images/adsx500_1575894487.jpg"
-    ],
+    "previousWork": [],
     "description": "",
-    "mobileNumber": "01211006245"
+    "mobileNumber": "01050082057"
   }
 ]

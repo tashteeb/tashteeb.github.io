@@ -1,0 +1,95 @@
+[
+  {
+    "id": "BW-1",
+    "name": { "en": "Ramy Ramadan Abdelmoez", "ar": "رامي رمضان عبدالمعز" },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.6,
+      "quality": 4.5,
+      "manners": 4.7,
+      "pricing": 4.7
+    },
+    "services": ["brickwork"],
+    "type": "worker",
+
+    "reviews": [],
+
+    "pricing": {
+      "brickwork": "550"
+    },
+    "previousWork": [],
+    "description": "",
+    "mobileNumber": "01120113048"
+  },
+
+  {
+    "id": "BW-2",
+    "name": { "en": "Saad Raby", "ar": " سعد رابي" },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.6,
+      "quality": 4.6,
+      "manners": 4.7,
+      "pricing": 4.7
+    },
+    "services": ["brickwork"],
+    "type": "worker",
+
+    "reviews": [],
+
+    "pricing": {
+      "brickwork": "550"
+    },
+    "previousWork": [],
+    "description": "",
+    "mobileNumber": "012855701919"
+  },
+  {
+    "id": "BW-3",
+    "name": { "en": "Ayman", "ar": " ايمن" },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.6,
+      "quality": 4.7,
+      "manners": 4.6,
+      "pricing": 4.7
+    },
+    "services": ["brickwork"],
+    "type": "worker",
+
+    "reviews": [],
+
+    "pricing": {
+      "brickwork": "500"
+    },
+    "previousWork": [],
+    "description": "",
+    "mobileNumber": "012855701919"
+  },
+  {
+    "id": "BW-4",
+    "name": { "en": "Mahmoud Omar Abdelhamid", "ar": "محمود عمر عبدالحميد" },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.7,
+      "quality": 4.7,
+      "manners": 4.6,
+      "pricing": 4.3
+    },
+    "services": ["brickwork"],
+    "type": "worker",
+
+    "reviews": [],
+
+    "pricing": {
+      "brickwork": "800"
+    },
+    "previousWork": [],
+    "description": "",
+    "mobileNumber": "01112775195"
+  }
+]
