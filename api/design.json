@@ -12,7 +12,7 @@
     },
     "services": ["design"],
     "type": "worker",
-    "reviews": [{}],
+    "reviews": [],
 
     "pricing": {
       "design": 100
@@ -65,7 +65,7 @@
     },
     "services": ["design"],
     "type": "worker",
-    "reviews": [{}],
+    "reviews": [],
 
     "pricing": {
       "design": "80-100"
@@ -118,7 +118,7 @@
     },
     "services": ["design"],
     "type": "worker",
-    "reviews": [{}],
+    "reviews": [],
 
     "pricing": {
       "design": "85"
