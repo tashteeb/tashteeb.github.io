@@ -12,11 +12,12 @@
     },
     "services": ["design"],
     "type": "worker",
-    "reviews": [],
+    "reviews": [{}],
 
     "pricing": {
       "design": 100
     },
+    "PreviousWorkPDF": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2FOmar%20hossam%20Design%20pdf-min.pdf?alt=media&token=8838f90a-2739-475e-9ffc-03ff7366cb5c",
     "previousWork": [
       "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F1.jpeg?alt=media&token=47b1d022-afa6-413d-bc8b-cf08b1989fa4",
       "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FOmar%20Hossam%2F10.jpeg?alt=media&token=0e6ca1cb-c6ba-4f1b-ac15-802cefa25ce0",
@@ -65,11 +66,12 @@
     },
     "services": ["design"],
     "type": "worker",
-    "reviews": [],
+    "reviews": [{}],
 
     "pricing": {
       "design": "80-100"
     },
+    "PreviousWorkPDF": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2FTarek%20Alaa%20Design%20PDF-min.pdf?alt=media&token=48dd9542-10e2-4b94-8ce3-290d7518a464",
     "previousWork": [
       "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F1.jpeg?alt=media&token=d909f497-ad48-4fe5-9878-6d09b5176410",
       "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FTarek%20Alaa%2F10.jpeg?alt=media&token=881cd3cf-e43f-487a-9198-adaa686ad32a",
@@ -118,13 +120,30 @@
     },
     "services": ["design"],
     "type": "worker",
-    "reviews": [],
+    "reviews": [{}],
 
     "pricing": {
       "design": "85"
     },
-    "previousWork": [],
+    "PreviousWorkPDF": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2FYousef%20Sedky%20PDF-min.pdf?alt=media&token=6af8910b-ab1c-4c68-8098-b5852bd85e11",
+    "previousWork": [
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F1.jpeg?alt=media&token=efef4146-1f78-417d-a29e-6c1608d38407",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F10.jpeg?alt=media&token=e3827003-abad-4b28-8dfa-b95f85765ebc",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F11.jpeg?alt=media&token=d161c0d1-939c-41dd-8608-9eb32cd1a4f9",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F12.jpeg?alt=media&token=70d3a500-9659-436f-a55a-f9270e2635e0",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F13.jpeg?alt=media&token=6bf8cb7e-40f7-4c0a-aa75-31383240a8ac",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F14.jpeg?alt=media&token=8906f280-1a98-4758-9143-059c835e3e62",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F2.jpeg?alt=media&token=222e289e-69f3-4473-867f-f788a33a68ca",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F3.jpeg?alt=media&token=cc694d47-2a1c-4325-a799-23c7bd2b4ee8",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F4.jpeg?alt=media&token=18528de0-7a42-4e93-8fec-a3bf371e44d7",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F5.jpeg?alt=media&token=b56a506a-cdad-48a1-8c57-efee22d4ec25",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F6.jpeg?alt=media&token=0d109300-7a57-49ad-babd-d6e8ed5bae86",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F7.jpeg?alt=media&token=ed4c8bc4-2ae4-44fb-a2aa-7d5b80ec6779",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F8.jpeg?alt=media&token=c4f86ec7-d02d-4ce9-9d8d-45b83f3e5724",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/Design%2FYoussef%20Sedky%2F9.jpeg?alt=media&token=2c9def05-eb8e-428f-8816-4f94df6c4103"
+    ],
     "description": "",
     "mobileNumber": "01111840846"
   }
 ]
+
