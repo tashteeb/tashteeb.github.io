@@ -23,7 +23,7 @@
   },
   {
     "id": "GYP-2",
-    "name": { "en": "Tamer Mohamed Sayed", "ar": "تامر محمد سيد" },
+    "name": { "en": "Tamer Samir Mohamed", "ar": "تامر سمير محمد" },
     "image": null,
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
@@ -32,7 +32,7 @@
       "manners": 4.7,
       "pricing": 4.6
     },
-    "services": ["gypsum"],
+    "services": ["gypsum", "paints"],
     "type": "worker",
     "reviews": [],
 
@@ -75,3 +75,4 @@
     "mobileNumber": "01112603828"
   }
 ]
+
