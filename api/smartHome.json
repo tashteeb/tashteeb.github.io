@@ -1,0 +1,25 @@
+[
+  {
+    "id": "SH-1",
+    "name": { "en": "Andrew Amgad Fayek", "ar": " أندرو امجد فايك  " },
+    "image": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/profile%20pics%2F%D8%A7%D9%86%D8%AF%D8%B1%D9%88%20%D9%84%D9%85%D8%AC%D8%AF%20%D9%81%D8%A7%D9%8A%D9%82%20%D8%B3%D8%A7%D9%85%D8%A7%D8%B1%D8%AA%20%D9%87%D9%88%D9%85.jpeg?alt=media&token=02a35ebd-e813-42c3-8866-983c331c04ea",
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 4.9,
+      "manners": 4.8,
+      "pricing": 4.7
+    },
+    "services": ["smartHome"],
+    "type": "worker",
+    "reviews": [],
+
+    "pricing": {
+      "smartHome": 3000
+    },
+    "PreviousWorkPDF": "",
+    "previousWork": [],
+    "description": "",
+    "mobileNumber": "01226147779"
+  }
+]
