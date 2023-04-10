@@ -160,37 +160,6 @@
   },
   {
     "id": "PN-5",
-    "name": { "en": "Ayman Nasr Afify", "ar": " ايمن نصر عفيفي " },
-    "image": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/profile%20pics%2F%D8%A7%D9%8A%D9%85%D9%86%20%D9%85%D8%AD%D8%B1%D8%A9%20%D9%88%20%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83%20%D9%88%20%D9%85%D8%A8%D8%A7%D9%86%D9%8A.jpg?alt=media&token=5aef9d6d-e059-4a0b-8c71-3deb817437a7",
-    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
-    "rating": {
-      "speed": 4.8,
-      "quality": 4.8,
-      "manners": 4.7,
-      "pricing": 4.7
-    },
-    "services": ["paints"],
-    "type": "worker",
-
-    "reviews": [],
-
-    "pricing": {
-      "paints": "30-35"
-    },
-    "PreviousWorkPDF": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FAyman%20Nasr%2FAyman%20Painting%20PDF-min.pdf?alt=media&token=e5ec0b7f-6dfc-4830-a5cb-ad473c7653ed",
-    "previousWork": [
-      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FAyman%20Nasr%2F1.jpeg?alt=media&token=cf660739-0fac-4479-9baa-ac4c44eea47d",
-      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FAyman%20Nasr%2F2.jpeg?alt=media&token=61884e80-7cac-4976-b910-64617f52bf49",
-      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FAyman%20Nasr%2F3.jpeg?alt=media&token=659bb534-a26d-4490-80df-831e46c92b3a",
-      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FAyman%20Nasr%2F4.jpeg?alt=media&token=09cab641-dd2d-4e11-85e2-784c5d7a9fee",
-      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FAyman%20Nasr%2F5.jpeg?alt=media&token=9700d23b-b55b-4819-88a4-0c22752763ae",
-      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FAyman%20Nasr%2F6.jpeg?alt=media&token=6f46729b-06c7-4e89-971c-59a86038eee2"
-    ],
-    "description": "",
-    "mobileNumber": "01050082057"
-  },
-  {
-    "id": "PN-6",
     "name": { "en": "Ahmed", "ar": "احمد " },
     "image": null,
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
@@ -213,7 +182,7 @@
     "mobileNumber": "01011069917"
   },
   {
-    "id": "PN-7",
+    "id": "PN-6",
     "name": { "en": "Alaa El-Kashif", "ar": "علاء الكاشف " },
     "image": null,
     "areaOfOperation": { "en": "6th of October", "ar": "مدينة 6 اكتوبر" },
