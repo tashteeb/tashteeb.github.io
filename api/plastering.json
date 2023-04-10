@@ -45,28 +45,6 @@
   },
   {
     "id": "PLA-3",
-    "name": { "en": "Ayman Nasr Afify", "ar": "ايمن نصر عفيفي" },
-    "image": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/profile%20pics%2F%D8%A7%D9%8A%D9%85%D9%86%20%D9%85%D8%AD%D8%B1%D8%A9%20%D9%88%20%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83%20%D9%88%20%D9%85%D8%A8%D8%A7%D9%86%D9%8A.jpg?alt=media&token=5aef9d6d-e059-4a0b-8c71-3deb817437a7",
-    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
-    "rating": {
-      "speed": 4.5,
-      "quality": 4.3,
-      "manners": 4.5,
-      "pricing": 4.6
-    },
-    "services": ["plastering"],
-    "type": "worker",
-    "reviews": [],
-
-    "pricing": {
-      "plastering": "25-30"
-    },
-    "previousWork": [],
-    "description": "",
-    "mobileNumber": "01050082057"
-  },
-  {
-    "id": "PLA-4",
     "name": { "en": "Hany Youssef Shawky", "ar": "هاني يوسف شوقي" },
     "image": null,
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
