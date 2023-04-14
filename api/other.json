@@ -12,7 +12,7 @@
     },
     "services": ["woodwork"],
     "type": "worker",
-    "reviews": [{}],
+    "reviews": [],
 
     "pricing": {
       "other": "N/A"
@@ -35,7 +35,7 @@
     },
     "services": ["marble"],
     "type": "worker",
-    "reviews": [{}],
+    "reviews": [],
 
     "pricing": {
       "other": "N/A"
@@ -58,7 +58,7 @@
     },
     "services": ["alumetal"],
     "type": "worker",
-    "reviews": [{}],
+    "reviews": [],
 
     "pricing": {
       "other": "N/A"
