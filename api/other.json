@@ -33,7 +33,7 @@
       "manners": 4.8,
       "pricing": 4.9
     },
-    "services": ["Marble"],
+    "services": ["marble"],
     "type": "worker",
     "reviews": [{}],
 
@@ -56,7 +56,7 @@
       "manners": 4.8,
       "pricing": 4.8
     },
-    "services": ["Allumital"],
+    "services": ["alumetal"],
     "type": "worker",
     "reviews": [{}],
 
