@@ -8,7 +8,7 @@
       "speed": 4.8,
       "quality": 4.9,
       "manners": 4.7,
-      "pricing": 4.4
+      "pricing": 4.6
     },
     "services": ["gypsum"],
     "type": "worker",
@@ -27,10 +27,10 @@
     "image": null,
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.7,
-      "quality": 4.7,
+      "speed": 4.8,
+      "quality": 4.9,
       "manners": 4.7,
-      "pricing": 4.6
+      "pricing": 4.7
     },
     "services": ["gypsum", "paints"],
     "type": "worker",
@@ -73,6 +73,59 @@
     ],
     "description": "",
     "mobileNumber": "01112603828"
+  },
+  {
+    "id": "GYP-3",
+    "name": { "en": "Mikael Fayez", "ar": "ميخائيل فايز  " },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 4.9,
+      "manners": 4.7,
+      "pricing": 4.7
+    },
+    "services": ["gypsum"],
+    "type": "worker",
+    "reviews": [],
+
+    "pricing": {
+      "gypsum": "250-300"
+    },
+    "PreviousWorkPDF": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FTamer%20Mohamed%2FTamer%20Gypsumboard-min.pdf?alt=media&token=dec9feae-76a1-4a9f-8176-f1857515df21",
+    "previousWork": [
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F1.jpeg?alt=media&token=43b8fc77-d3bc-495f-adce-5338ce89139a",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F2.jpeg?alt=media&token=d14043c5-efa9-4645-83ed-37992c66a3bc",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F3.jpeg?alt=media&token=54dfe2ed-6533-4cb7-8c63-a502d3b00e3e",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F4.jpeg?alt=media&token=56932ce4-1663-45b5-ad91-650e73ef3a88",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F5.jpeg?alt=media&token=756908da-e1bd-457d-b419-e32984bb9a28",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F6.jpeg?alt=media&token=4ca1f1fe-bb8f-4e98-a6c4-9a8c1e55f213",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F7.jpeg?alt=media&token=2b8b044d-f0ae-4216-9f24-c368707f44c9",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F8.jpeg?alt=media&token=64ddee9e-d630-468f-82dc-c705d357d564",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F9.jpeg?alt=media&token=2644c983-bf52-4fad-b0f8-ed8654950dc0",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F10.jpeg?alt=media&token=4ee61097-af59-45d4-8107-213336365c43",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F11.jpeg?alt=media&token=08c1945d-bf01-448b-91b1-d41370cd859e",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F12.jpeg?alt=media&token=e8fbf87f-a8e6-465e-9fdf-ad7e5117c58c",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F13.jpeg?alt=media&token=fbcd6d96-4a1c-47c8-afbd-0b39821efc86",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F14.jpeg?alt=media&token=5ff98847-5f60-4d53-9199-ce17330139e8",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F15.jpeg?alt=media&token=b78a399b-bf70-4a29-94be-6bd389377c9b",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F16.jpeg?alt=media&token=44912854-ca2a-40bc-9f5d-29d8b6cb2c5d",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F17.jpeg?alt=media&token=2d06727c-aa91-4ef4-8f67-32cac52c9929",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F18.jpeg?alt=media&token=10b438da-231d-4d66-ae49-d32678167d49",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F19.jpeg?alt=media&token=550118c7-2bbf-4317-9d4f-79dc8ca1a416",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F20.jpeg?alt=media&token=af3aeeba-f4b3-4217-b26b-bd0ad5359304",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F21.jpeg?alt=media&token=efc85e37-ed94-4f2b-9ca9-be3eb150f522",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F22.jpeg?alt=media&token=ea7e928c-1dae-435c-bcd8-4b322406218f",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F23.jpeg?alt=media&token=98be891e-1c0e-465b-a60e-3a0b4aac2e85",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F24.jpeg?alt=media&token=4face831-9dbf-4761-820d-9c9e61c3894b",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F25.jpeg?alt=media&token=6c095387-a5d9-42bc-bf85-f02cf9223259",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F26.jpeg?alt=media&token=f277b51a-4df4-44cf-9755-569b6ebc614e",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F27.jpeg?alt=media&token=a4bda498-e612-44bb-bf62-2b0d1cef022a",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F28.jpeg?alt=media&token=11dddaf7-11b6-4cc5-be88-22d71607a18a",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2Fmikael%20fayes%2F29.jpeg?alt=media&token=043e83bc-ff9c-463b-b894-6f5ff8511a4c"
+    ],
+    "description": "",
+    "mobileNumber": "01270704182"
   }
 ]
 
