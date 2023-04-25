@@ -10,7 +10,7 @@
       "manners": 4.8,
       "pricing": 4.9
     },
-    "services": ["Wood work"],
+    "services": ["carpentry"],
     "type": "worker",
     "reviews": [{}],
 
@@ -60,7 +60,7 @@
       "manners": 4.8,
       "pricing": 4.9
     },
-    "services": ["Marble"],
+    "services": ["marble"],
     "type": "worker",
     "reviews": [{}],
 
@@ -99,7 +99,7 @@
       "manners": 4.8,
       "pricing": 4.8
     },
-    "services": ["Allumital"],
+    "services": ["allumetal"],
     "type": "worker",
     "reviews": [{}],
 
@@ -124,3 +124,4 @@
     "mobileNumber": "01111650604"
   }
 ]
+
