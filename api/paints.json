@@ -6,7 +6,7 @@
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.6,
-      "quality": 4.5,
+      "quality": 4.6,
       "manners": 4.7,
       "pricing": 4.7
     },
@@ -101,7 +101,7 @@
   {
     "id": "PN-4",
     "name": { "en": "Tamer Samir Mohamed", "ar": "تامر سمير محمد " },
-    "image": null,
+    "image": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/profile%20pics%2F%D8%AA%D8%A7%D9%85%D8%B1%20%D8%AC%D8%A8%D8%B3.jpeg?alt=media&token=0f425ad4-dfb2-4e92-b79f-8e6e31c7d9c8",
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.7,
@@ -160,29 +160,6 @@
   },
   {
     "id": "PN-5",
-    "name": { "en": "Ahmed", "ar": "احمد " },
-    "image": null,
-    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
-    "rating": {
-      "speed": 4.7,
-      "quality": 4.7,
-      "manners": 4.7,
-      "pricing": 4.5
-    },
-    "services": ["paints"],
-    "type": "worker",
-
-    "reviews": [],
-
-    "pricing": {
-      "paints": "30-50"
-    },
-    "previousWork": [],
-    "description": "",
-    "mobileNumber": "01011069917"
-  },
-  {
-    "id": "PN-6",
     "name": { "en": "Alaa El-Kashif", "ar": "علاء الكاشف " },
     "image": null,
     "areaOfOperation": { "en": "6th of October", "ar": "مدينة 6 اكتوبر" },
@@ -230,5 +207,52 @@
     ],
     "description": "",
     "mobileNumber": "01011112518"
+  },
+  {
+    "id": "PN-6",
+    "name": { "en": "Gerges Magdy Moussa", "ar": "جرجس مجدي موسى  " },
+    "image": null,
+    "areaOfOperation": { "en": "Cairo ", "ar": "القاهرة  " },
+    "rating": {
+      "speed": 4.7,
+      "quality": 4.7,
+      "manners": 4.7,
+      "pricing": 4.8
+    },
+    "services": ["paints"],
+    "type": "worker",
+
+    "reviews": [],
+
+    "pricing": {
+      "paints": "35-40"
+    },
+    "PreviousWorkPDF": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2FAll%20PDF.pdf?alt=media&token=e857699e-cf67-43b6-b250-9776865005b9",
+    "previousWork": [
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F1.jpeg?alt=media&token=3fc5ccc1-b6d8-4eb3-be26-534d162e7213",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F2.jpeg?alt=media&token=8842d5a1-1d67-4323-a33c-6c7df9ca3bae",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F3.jpeg?alt=media&token=0ed83e49-e82c-4ab0-b330-806d3f69cb84",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F4.jpeg?alt=media&token=ca68bc2b-f7a5-4bec-9264-1d32528cfe4f",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F5.jpeg?alt=media&token=eac064a4-5a02-4fe2-bc18-53d0a9633898",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F6.jpeg?alt=media&token=18d3a67a-21cc-4f49-a7ae-0a478a2fcf49",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F7.jpeg?alt=media&token=2d1100c0-273b-4a52-9457-bc51c6391e4c",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F8.jpeg?alt=media&token=7f8329d1-6da6-4b14-86e7-3ae20473cd4f",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F9.jpeg?alt=media&token=37c12db8-e4cb-4556-997e-125754ae4d6b",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F10.jpeg?alt=media&token=ef7428c0-845c-4573-8854-28046ac7df95",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F11.jpeg?alt=media&token=31d9570e-bf02-4800-8d5b-92298dae8455",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F12.jpeg?alt=media&token=17aa8963-f839-4f55-bbe6-f23f14f21e21",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F13.jpeg?alt=media&token=47fc6d66-a94d-40ca-be97-e9df1f5999d9",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F14.jpeg?alt=media&token=fac1bdab-f853-42d1-b5e7-20d35926eaf1",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F15.jpeg?alt=media&token=80d01e1a-d6a6-4216-9507-b3e6b6bcdbdd",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F16.jpeg?alt=media&token=b0d83cc0-b980-4ff0-9dc2-f1d7a89b7a06",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F17.jpeg?alt=media&token=2b4e7182-3606-4d4c-acec-f48df4e19727",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F18.jpeg?alt=media&token=d699ebad-3143-47fc-9db8-7d961bb42730",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F19.jpeg?alt=media&token=21c201f5-6106-403e-b087-c6d9d3c7d450",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F20.jpeg?alt=media&token=a4d28167-1676-4999-b241-c0e2b411c7bf",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2Fpainting%2FGerges%2F21.jpeg?alt=media&token=abd61bea-1d20-4c53-adb3-5f3a87f0f348"
+    ],
+    "description": "",
+    "mobileNumber": "01227530476"
   }
 ]
+
