@@ -6,9 +6,9 @@
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.8,
-      "quality": 4.9,
-      "manners": 4.7,
-      "pricing": 4.6
+      "quality": 4.8,
+      "manners": 4.8,
+      "pricing": 4.7
     },
     "services": ["gypsum"],
     "type": "worker",
@@ -24,12 +24,12 @@
   {
     "id": "GYP-2",
     "name": { "en": "Tamer Samir Mohamed", "ar": "تامر سمير محمد" },
-    "image": null,
+    "image": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/profile%20pics%2F%D8%AA%D8%A7%D9%85%D8%B1%20%D8%AC%D8%A8%D8%B3.jpeg?alt=media&token=0f425ad4-dfb2-4e92-b79f-8e6e31c7d9c8",
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.8,
       "quality": 4.9,
-      "manners": 4.7,
+      "manners": 4.8,
       "pricing": 4.7
     },
     "services": ["gypsum", "paints"],
@@ -126,6 +126,40 @@
     ],
     "description": "",
     "mobileNumber": "01270704182"
+  },
+  {
+    "id": "GYP-4",
+    "name": { "en": "Mohamed Kassem Osama", "ar": "محمد قاسم  " },
+    "image": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/profile%20pics%2F%D9%82%D8%A7%D8%B3%D9%85%20%D8%AC%D8%A8%D8%B3.jpeg?alt=media&token=2a704242-c1f2-4916-9ef8-5a595d355636",
+    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
+    "rating": {
+      "speed": 4.8,
+      "quality": 4.8,
+      "manners": 4.8,
+      "pricing": 4.8
+    },
+    "services": ["gypsum"],
+    "type": "worker",
+    "reviews": [],
+
+    "pricing": {
+      "gypsum": "220-270"
+    },
+    "PreviousWorkPDF": "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FQassem%2FALL%20pdf.pdf?alt=media&token=c01c68a5-66cd-47a8-9347-e26e1f886430",
+    "previousWork": [
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FQassem%2F1.jpeg?alt=media&token=b65e2fc3-b414-4fd8-8dd9-012da15221d9",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FQassem%2F2.jpeg?alt=media&token=6b1a44cf-d5d6-4600-a634-0fd5f95de6af",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FQassem%2F3.jpeg?alt=media&token=0e873558-791d-4446-a00e-3c028fc78722",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FQassem%2F4.jpeg?alt=media&token=0137cf63-19f6-4219-a76c-513ef5540a6d",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FQassem%2F5.jpeg?alt=media&token=4efc9448-f000-4ec1-90f8-7f5a5b775e4d",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FQassem%2F6.jpeg?alt=media&token=7eb56da0-3dc3-47a0-860e-95df1c6235de",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FQassem%2F7.jpeg?alt=media&token=ae65d9ba-c81a-444d-9f88-6bd5aea10c10",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FQassem%2F8.jpeg?alt=media&token=29eb8d5a-1629-49f9-95ea-f757b53bc8f4",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FQassem%2F9.jpeg?alt=media&token=b1895a73-91b6-4910-90e2-95128b46a968",
+      "https://firebasestorage.googleapis.com/v0/b/tashteeb-eg.appspot.com/o/workers%2FGypsum%20board%2FQassem%2F10.jpeg?alt=media&token=196367d8-cf43-48b7-9cfb-64f35910ac6f"
+    ],
+    "description": "",
+    "mobileNumber": "01017524082"
   }
 ]
 
