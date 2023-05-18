@@ -1,14 +1,14 @@
 [
   {
     "id": "MECH-1",
-    "name": { "en": "Michael Makram Moussa", "ar": "مايكل مكرم موسى " },
+    "name": { "en": "Mohamed Sobhy", "ar": "محمد صبحي " },
     "image": null,
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.5,
-      "quality": 4.4,
-      "manners": 4.6,
-      "pricing": 4.5
+      "speed": 4.7,
+      "quality": 4.8,
+      "manners": 4.7,
+      "pricing": 4.7
     },
     "services": ["plumbing"],
     "type": "worker",
@@ -50,8 +50,8 @@
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
       "speed": 4.6,
-      "quality": 4.5,
-      "manners": 4.5,
+      "quality": 4.7,
+      "manners": 4.7,
       "pricing": 4.5
     },
     "services": ["plumbing"],
@@ -71,9 +71,9 @@
     "image": null,
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.5,
-      "quality": 4.5,
-      "manners": 4.5,
+      "speed": 4.6,
+      "quality": 4.6,
+      "manners": 4.6,
       "pricing": 4.5
     },
     "services": ["plumbing"],
@@ -93,9 +93,9 @@
     "image": null,
     "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
     "rating": {
-      "speed": 4.5,
-      "quality": 4.5,
-      "manners": 4.5,
+      "speed": 4.6,
+      "quality": 4.6,
+      "manners": 4.6,
       "pricing": 4.5
     },
     "services": ["plumbing"],
@@ -108,27 +108,6 @@
     "previousWork": [],
     "description": "",
     "mobileNumber": "01010373047"
-  },
-  {
-    "id": "MECH-6",
-    "name": { "en": "Youssef Semaan", "ar": "يوسف سمعان" },
-    "image": null,
-    "areaOfOperation": { "en": "Cairo", "ar": "القاهرة" },
-    "rating": {
-      "speed": 4.7,
-      "quality": 4.7,
-      "manners": 4.8,
-      "pricing": 4.6
-    },
-    "services": ["plumbing"],
-    "type": "worker",
-    "reviews": [],
-
-    "pricing": {
-      "plumbing": "3000-4500"
-    },
-    "previousWork": [],
-    "description": "",
-    "mobileNumber": "01205981404"
   }
 ]
+
